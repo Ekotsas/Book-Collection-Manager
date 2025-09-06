@@ -17,13 +17,13 @@ git clone https://github.com/Ekotsas/Book-Collection-Manager.git
 2. Run the program:
 python book_manager.py
 ```
-Example:
+## Example
 ```bash
 Enter book title: Harry Potter
 Enter pages: 320
 Harry Potter added with 320 pages.
 ```
-Skills Learned:
+## Skills Learned
 ```bash
 Python lists & dictionaries
 
