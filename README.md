@@ -24,7 +24,7 @@ Enter pages: 320
 Harry Potter added with 320 pages.
 ```
 ## Skills Learned
-```bash
+
 Python lists & dictionaries
 
 File handling (JSON)
@@ -32,4 +32,4 @@ File handling (JSON)
 Data validation
 
 Searching & sorting
-```
+
