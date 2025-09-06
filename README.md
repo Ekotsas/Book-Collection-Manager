@@ -14,16 +14,17 @@ A Python CLI app to manage your book collection. Add, view, remove, search, sort
 ```bash
 git clone https://github.com/Ekotsas/Book-Collection-Manager.git
 
-Run the program:
+2. Run the program:
 python book_manager.py
-
+```
 Example:
-
+```bash
 Enter book title: Harry Potter
 Enter pages: 320
 Harry Potter added with 320 pages.
-
+```
 Skills Learned:
+```bash
 Python lists & dictionaries
 
 File handling (JSON)
@@ -31,3 +32,4 @@ File handling (JSON)
 Data validation
 
 Searching & sorting
+```
