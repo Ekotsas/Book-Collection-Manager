@@ -24,7 +24,6 @@ Enter pages: 320
 Harry Potter added with 320 pages.
 
 Skills Learned:
-
 Python lists & dictionaries
 
 File handling (JSON)
